@@ -88,7 +88,7 @@ body * {
   animation: slide-in 0.4s forwards;
 }
 
-#switch buttom:hover {
+#switch button:hover {
   outline: 8px solid var(--highlight-color);
 }
 
